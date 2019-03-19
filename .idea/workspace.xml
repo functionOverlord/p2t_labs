@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="linux" targetName="linux" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bed83cc-b12d-4135-bb7a-52bd32c8dade" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lab4/linux-lab04/solutions/Task1.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/linux-lab04/solutions/Task2.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/linux-lab04/solutions/Task3.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/linux-lab02/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/linux-lab02/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/linux-lab02/Lab02.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/linux-lab02/Lab02.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/linux-lab02/answers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/linux-lab02/answers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/linux-lab02/data1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/linux-lab02/data1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/linux-lab02/data2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/linux-lab02/data2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/linux-lab02/extras/Bash-Beginners-Guide.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/linux-lab02/extras/Bash-Beginners-Guide.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/linux-lab02/extras/Bash-GNU-Linux-Tools-Summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/linux-lab02/extras/Bash-GNU-Linux-Tools-Summary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/linux-lab02/hello" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/linux-lab02/hello" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/linux-lab02/loop.sh" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/linux-lab02/loop.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/Lab03.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/Lab03.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/answers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/answers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/data/1.data" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/data/1.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/data/10.data" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/data/10.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/data/11.data" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/data/11.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/data/12.data" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/data/12.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/data/13.data" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/data/13.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/data/14.data" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/data/14.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/data/15.data" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/data/15.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/data/2.data" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/data/2.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/data/3.data" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/data/3.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/data/4.data" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/data/4.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/data/5.data" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/data/5.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/data/6.data" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/data/6.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/data/7.data" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/data/7.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/data/8.data" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/data/8.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/data/9.data" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/data/9.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/examples/conditionals.sh" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/examples/conditionals.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/examples/for.sh" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/examples/for.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/examples/variables.sh" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/examples/variables.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/linux-lab03/examples/while.sh" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/linux-lab03/examples/while.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/linux-lab05/answers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/linux-lab05/answers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/linux-lab05/simulation/simulation.c" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/linux-lab05/simulation/simulation.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/c_lab6/Ex2/p2tlab6-c/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/c_lab6/Ex2/p2tlab6-c/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/c_lab6/Ex2/p2tlab6-c/makefile" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/c_lab6/Ex2/p2tlab6-c/makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/linux-lab06/answers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/linux-lab06/answers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/linux-lab06/code/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/linux-lab06/code/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/linux-lab06/code/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/linux-lab06/code/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/linux-lab06/code/util.c" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/linux-lab06/code/util.c" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lab4/linux-lab04" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lab3/c_lab3/Ex3.c" />
+        <option value="$PROJECT_DIR$/lab3/c_lab3/Ex3B.c" />
+        <option value="$PROJECT_DIR$/lab3/c_lab3/Ex3A.c" />
+        <option value="$PROJECT_DIR$/lab4/linux-lab04/solutions/Task1.sh" />
+        <option value="$PROJECT_DIR$/lab4/linux-lab04/solutions/Task3.sh" />
+        <option value="$PROJECT_DIR$/lab4/linux-lab04/solutions/Task4.sh" />
+        <option value="$PROJECT_DIR$/lab4/linux-lab04/solutions/Task5.sh" />
+        <option value="$PROJECT_DIR$/lab4/linux-lab04/solutions/Task2.sh" />
+        <option value="$PROJECT_DIR$/lab4/c_lab4/Ex3.c" />
+        <option value="$PROJECT_DIR$/lab4/c_lab4/Ex2.c" />
+        <option value="$PROJECT_DIR$/lab4/c_lab4/Ex1.c" />
+        <option value="$PROJECT_DIR$/lab5/c_lab5/makefile" />
+        <option value="$PROJECT_DIR$/lab5/c_lab5/main.c" />
+        <option value="$PROJECT_DIR$/lab5/c_lab5/printpgm.h" />
+        <option value="$PROJECT_DIR$/lab5/c_lab5/printpgm.c" />
+        <option value="$PROJECT_DIR$/lab5/c_lab5/Ex2/turtle.h" />
+        <option value="$PROJECT_DIR$/lab5/c_lab5/Ex2/makefile" />
+        <option value="$PROJECT_DIR$/lab5/c_lab5/Ex3/makefile" />
+        <option value="$PROJECT_DIR$/lab5/c_lab5/Ex3/complexmath.c" />
+        <option value="$PROJECT_DIR$/lab5/c_lab5/Ex3/main.c" />
+        <option value="$PROJECT_DIR$/lab5/c_lab5/Ex3/complexmath.h" />
+        <option value="$PROJECT_DIR$/lab5/c_lab5/Ex3/validate.h" />
+        <option value="$PROJECT_DIR$/lab5/c_lab5/Ex3/validate.c" />
+        <option value="$PROJECT_DIR$/lab5/c_lab5/Ex3/README.md" />
+        <option value="$PROJECT_DIR$/lab6/c_lab6/printpgm.h" />
+        <option value="$PROJECT_DIR$/lab6/c_lab6/main.c" />
+        <option value="$PROJECT_DIR$/lab6/c_lab6/printpgm.c" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/lab6/c_lab6/Ex2/p2tlab6-c/makefile" />
+        <option value="$PROJECT_DIR$/lab6/c_lab6/Ex2/p2tlab6-c/main.c" />
+        <option value="$PROJECT_DIR$/lab6/c_lab6/Ex2/answers" />
+        <option value="$PROJECT_DIR$/lab5/c_lab5/Ex2/main.c" />
+        <option value="$PROJECT_DIR$/main.c" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="226" />
+    <option name="y" value="21" />
+    <option name="width" value="1140" />
+    <option name="height" value="702" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="linux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linux" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab6/c_lab6" />
+      <recent name="$PROJECT_DIR$/lab4/c_lab4" />
+      <recent name="$PROJECT_DIR$/lab4/linux-lab04/solutions" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="linux" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="linux" TARGET_NAME="linux" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="linux" RUN_TARGET_NAME="linux">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bed83cc-b12d-4135-bb7a-52bd32c8dade" name="Default Changelist" comment="" />
+      <created>1550354704834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550354704834</updated>
+      <workItem from="1550354706090" duration="4147000" />
+      <workItem from="1550442342351" duration="905000" />
+      <workItem from="1551024526881" duration="479000" />
+      <workItem from="1551025024269" duration="18459000" />
+      <workItem from="1551225616717" duration="5646000" />
+      <workItem from="1551270674723" duration="653000" />
+      <workItem from="1551271679815" duration="7019000" />
+      <workItem from="1551622728260" duration="430000" />
+      <workItem from="1551623225001" duration="1826000" />
+      <workItem from="1551653118274" duration="3000" />
+      <workItem from="1552130638529" duration="5595000" />
+      <workItem from="1552345670007" duration="117000" />
+      <workItem from="1552345922020" duration="172000" />
+      <workItem from="1552824927880" duration="3302000" />
+      <workItem from="1552943648116" duration="1516000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50269000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="226" y="21" width="1140" height="702" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26703498" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19824561" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4111675" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.44385964" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.21929824" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32879046" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.19796954" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lab3/c_lab3/Ex3B.c" />
+    <entry file="file://$PROJECT_DIR$/lab3/c_lab3/Ex3A.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4/linux-lab04/answers.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/linux-lab03/Task1.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4/linux-lab04/solutions/Task5.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4/linux-lab04/solutions/Task4.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4/linux-lab04/solutions/Task3.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4/linux-lab04/help-read.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4/linux-lab04/solutions/Task2.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/c_lab3/Ex3.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/c_lab3/Ex1.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/c_lab3/Ex2.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4/c_lab4/Ex2.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/c_lab5/printpgm.c" />
+    <entry file="file://$PROJECT_DIR$/lab5/c_lab5/printpgm.h" />
+    <entry file="file://$PROJECT_DIR$/lab5/c_lab5/makefile" />
+    <entry file="file://$PROJECT_DIR$/lab4/c_lab4/Ex3.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-end-line="49" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/c_lab5/main.c" />
+    <entry file="file://$PROJECT_DIR$/lab5/c_lab5/Ex2/libturtle.a" />
+    <entry file="file://$PROJECT_DIR$/lab5/c_lab5/Ex1/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/c_lab5/Ex1/printpgm.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/c_lab5/Ex1/printpgm.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/c_lab5/Ex2/makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/c_lab5/Ex2/turtle.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="69" column="45" lean-forward="true" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/c_lab5/Ex3/complexmath.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/c_lab5/Ex3/validate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/c_lab5/Ex3/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/c_lab5/Ex3/makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6/c_lab6/printpgm.h" />
+    <entry file="file://$PROJECT_DIR$/lab6/c_lab6/main.c" />
+    <entry file="file://$PROJECT_DIR$/lab6/c_lab6/printpgm.c" />
+    <entry file="file://$PROJECT_DIR$/lab6/c_lab6/Ex2/p2tlab6-c/makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6/c_lab6/Ex2/p2tlab6-c/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6/c_lab6/Ex2/answers">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6/c_lab6/Ex1/makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6/c_lab6/Ex1/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6/c_lab6/Ex1/printpgm.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6/c_lab6/Ex1/printpgm.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/linux-lab05/answers.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-567">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/linux-lab05/simulation/makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/c_lab5/Ex3/validate.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/c_lab5/Ex3/complexmath.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/c_lab5/Ex3/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#40#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/c_lab5/Ex2/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#40#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4/linux-lab04/solutions/Task1.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4/c_lab4/Ex1.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

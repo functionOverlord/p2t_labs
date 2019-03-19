@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/lab2/linux-lab02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab3/linux-lab03" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab4/linux-lab04" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab5/linux-lab05" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab5/linux-lab05/lab5-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab6/c_lab6/Ex2/p2tlab6-c" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab6/c_lab6/Ex2/test_/p2tlab6-c" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab6/linux-lab06" vcs="Git" />
+  </component>
+</project>
